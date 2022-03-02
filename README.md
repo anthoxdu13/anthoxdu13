@@ -35,6 +35,6 @@
 
 - 💸 Donate Paypal : anthoxdu13@hotmail.com 
 
-<h3>⚙️  Mes Statistiques</h3>
+<h3>⚙️  My Statistics</h3>
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anthoxdu13&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
