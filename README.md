@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I am funny, sociable**
 
-<h3>My Social Networks</h3>
+<h3>👀  My Social Networks</h3>
 
 - 👉 My Discord : anthoxdu13#6937
 
