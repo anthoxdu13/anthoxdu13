@@ -38,4 +38,5 @@
 <h3>⚙️  Mes Statistiques</h3>
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anthoxdu13&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+<br>
 <img height="150em" scr"https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anthoxdu13&layout=compact&langs_count=8&theme=react&locale=fr"/>
