@@ -1,6 +1,3 @@
-<!--
-**anthoxdu13/anthoxdu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Anthoxdu13</h1>
 <h3 align="center">I didn't know you were reading this but here I am a young developer who loves gaming and also everything they touch with computers</h3>
 
